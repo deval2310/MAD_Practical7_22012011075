@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "792086228692",
+    "project_id": "mad-practice-7cf45",
+    "storage_bucket": "mad-practice-7cf45.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:792086228692:android:117fe86175f2d4855e1541",
+        "android_client_info": {
+          "package_name": "com.example.mad_practical7_22012011075"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3Mp4RtGSbIm2NbSOYah1bEGyh5zU1Bzs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
